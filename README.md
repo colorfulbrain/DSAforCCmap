@@ -6,6 +6,6 @@
 <br />After unzip, the file name should be ImageFileName05.dcm.
 ## Run Python codes
 <br />1. install opencv, skimage, pydicom in the python
-<br />2. replace _skeletonize.py in your python skimage package with _skeletonize.py in the git directory
-<br />3. keep ImageFileName05.dcm and codes4mapping_CC_Tmax.ipynb in the same directory
-<br />4. run  codes4mapping_CC_Tmax.ipynb
+<br />2. replace _skeletonize.py in your python skimage package (maybe in python3.8/site-packages/skimage/morphology/_skeletonize.py) with _skeletonize.py in the git directory
+<br />3. keep ImageFileName05.dcm and ForGIT_codes4mapping_CC_Tmax.ipynb in the same directory
+<br />4. run  ForGIT_codes4mapping_CC_Tmax.ipynb
